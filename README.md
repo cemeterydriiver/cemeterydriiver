@@ -20,7 +20,7 @@ _🏳️‍🌈Pronomes: ela/ele/elu_
 
 > [clique aqui para acessar meu portfólio do técnico em ADS](https://github.com/cemeterydriiver/portfolio_ads).
 
->[clique aqui para acessar meus projetos independentes](https://github.com/cemeterydriiver/projetos).
+>[clique aqui para acessar meus projetos autorais](https://github.com/cemeterydriiver/projetos).
 
 
 
