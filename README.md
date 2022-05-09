@@ -4,7 +4,7 @@
 
 <h1 align= "center"> Oi👋 sou Ash!</h1>
 
-_🏳️‍🌈Pronomes: ela/ele/elu_ 
+
 
 <div align="center">
   
