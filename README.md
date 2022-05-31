@@ -38,4 +38,9 @@
 <img align="center" src="https://logosmarcas.net/wp-content/uploads/2020/11/Gmail-Logo.png" alt="cemeterydriiver" height="30" width="50" /></a>
 </p>
   
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  
+  ![Cobrinha dos Commits](https://github.com/cemeterydriiver/cemeterydriiver/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+  ![Cobrinha dos Commits](https://github.com/cemeterydriiver/cemeterydriiver/blob/output/github-contribution-grid-snake.gif#gh-light-mode-only)
+  
+</div>
