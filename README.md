@@ -39,8 +39,7 @@
 </p>
   
 <div align="center">
-  
-  ![Cobrinha dos Commits](https://github.com/cemeterydriiver/cemeterydriiver/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
-  ![Cobrinha dos Commits](https://github.com/cemeterydriiver/cemeterydriiver/blob/output/github-contribution-grid-snake.gif#gh-light-mode-only)
+ 
+ ![Snake animation](https://github.com/cemeterydriiver/cemeterydriiver/blob/output/github-contribution-grid-snake.svg)
   
 </div>
