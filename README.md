@@ -66,12 +66,15 @@
   </details>
 </div>
 <div align='right'>
-<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200' height='200'>
-</div>
+
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cemeterydriiver&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cemeterydriiver&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cemeterydriiver&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cemeterydriiver&layout=compact&langs_count=7&theme=radical"/>
+  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150' height='150'>
 </div>
+</div>
+
+
 
 <h3 align="CENTER">✉️Contatos:<h3>
 <p align="center">
