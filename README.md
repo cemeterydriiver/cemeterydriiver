@@ -67,19 +67,10 @@
     <img alt="Word" src="https://img.shields.io/badge/-Word-2B579A?style=flat-square&logo=Microsoft Word&logoColor=white" />
   </details>
 </div>
-<div align='right'>
-
-<div align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cemeterydriiver&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cemeterydriiver&layout=compact&langs_count=7&theme=radical"/>
-  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150' height='150'>
-</div>
-</div>
 
 
-
-<h3 align="CENTER">✉️Contatos:<h3>
-<p align="center">
+<h4 align="left">✉️Contatos:<h4>
+<p align="left">
 <a href="https://instagram.com/cemeterydriiver" target="blank" align="center">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cemeterydriiver" height="30" width="40" /></a>
 <a href="ashlynierow@gmail.com" target="blank" align="center">
