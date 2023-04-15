@@ -1,7 +1,8 @@
 ## Ashlyn, _17yo_
 <img src="https://komarev.com/ghpvc/?username=cemeterydriiver&color=red">
 
-> _dev back-end que se arrisca no front :')_
+> _dev back-end que se arrisca no front :')_]
+
 > >_Estudando: data science <3_
 
 ## **<h1>Hello, world**<img height="50px" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
