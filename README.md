@@ -3,7 +3,10 @@
 
 > _dev back-end que se arrisca no front :')_]
 
-> _Estudando: data science <3_
+📚 Estudando: data science
+
+🎓 Formação: Realizando o terceiro ano do ensino médio integrado ao curso técnico em análise e desenvolvimento de sistemas
+
 
 ## **<h1>Hello, world**<img height="50px" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 
