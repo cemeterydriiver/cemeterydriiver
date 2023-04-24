@@ -18,6 +18,7 @@
 </p>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **Um pouco sobre mim...**
 ```js
 import Desenvolvedor from 'cemeterydriiver';
 
@@ -101,9 +102,6 @@ class Skills extends Desenvolvedor {
   </details>
 </div>
 
-![cemeterydriiver's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cemeterydriiver&theme=radical&hide_border=true)
-
-![cemeterydriiver's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cemeterydriiver&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 <h4 align="center">✉️Contatos:<h4>
 <p align="center">
