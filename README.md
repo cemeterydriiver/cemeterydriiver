@@ -1,17 +1,47 @@
-## Ashlyn, _17yo_
-<img src="https://komarev.com/ghpvc/?username=cemeterydriiver&color=red">
+<p align="center">
 
-> _dev back-end que se arrisca no front :')_
+  <a href="https://github.com/cemeterydriiver/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Ashlyn%20Iero&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
+<p align="center">
 
-📚 Estudando: data science
+  <a href="https://github.com/cemeterydriiver/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Back-end%20web%20e%20app%20developer;Terceiro%20ano%20EM;Técnico%20em%20DS;Sempre%20aprendendo%20coisas%20novas&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
-🎓 Formação: Realizando o terceiro ano do ensino médio integrado ao curso técnico em desenvolvimento de sistemas
+<p align="center">
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/ashluvspython"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.com/channels/@me" alt="Discord" title="Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+
+```js
+import Desenvolvedor from 'cemeterydriiver';
+
+class SobreMim extends Desenvolvedor {
+  nome     = 'Ashlyn Iero';
+  area    = 'Back-end e data science';
+  escola  = 'Sesi/Senai';
+  curso = 'Último ano do técnico em desenvolvimento de sistemas,
+           junto ao 3 ano do ensino médio';
+}
+
+class Skills extends Desenvolvedor {
+  linguagens  = ['Java', 'Python', 'Java Script'];
+  bibliotecas  = ['Pandas', 'NumPy', 'SciPy', 'TensorFlow', 'Scikit-Learn'
+                 ,'MatplotLib', 'Keras'];
+  frameworks = ['React', 'Vue', 'Fastify', 'Express'];
+  api = ['PostMan'];
+  devOps = ['Docker'];
+  dataBases = ['Mongo', 'MySql', 'FireBase', 'PostGree'];
+}
+```
 
 
-## **<h1>Hello, world**<img height="50px" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
-
-
-
+---
 
 <div align="left">
   <details>
@@ -74,8 +104,8 @@
 ![cemeterydriiver's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cemeterydriiver&theme=radical&hide_border=true)
 ![cemeterydriiver's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cemeterydriiver&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
-<h4 align="left">✉️Contatos:<h4>
-<p align="left">
+<h4 align="center">✉️Contatos:<h4>
+<p align="center">
 <a href="https://instagram.com/cemeterydriiver" target="blank" align="center">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cemeterydriiver" height="30" width="40" /></a>
 <a href="ashlynierow@gmail.com" target="blank" align="center">
