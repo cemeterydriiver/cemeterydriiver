@@ -1,12 +1,12 @@
 <p align="center">
 
   <a href="https://github.com/cemeterydriiver/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Ashlyn%20Iero&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Ashlyn%20Iero&center=true&width=440&height=45&color=ffff&vCenter=true&pause=1000&size=22" /></a>
 </p>
 <p align="center">
 
   <a href="https://github.com/cemeterydriiver/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Back-end%20web%20e%20app%20developer;Terceiro%20ano%20EM;Técnico%20em%20DS;Sempre%20aprendendo%20coisas%20novas&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Back-end%20web%20e%20app%20developer;Terceiro%20ano%20EM;Técnico%20em%20DS;Sempre%20aprendendo%20coisas%20novas&font=Fira%20Code&center=true&width=440&height=45&color=ffff&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <p align="center">
