@@ -6,7 +6,7 @@
 <p align="center">
 
   <a href="https://github.com/cemeterydriiver/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Back-end%20web%20e%20app%20developer;Terceiro%20ano%20EM;Técnico%20em%20DS;Sempre%20aprendendo%20coisas%20novas&font=Fira%20Code&center=true&width=440&height=45&color=ffff&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Back-end%20developer;Terceiro%20ano%20EM;Técnico%20em%20DS;Sempre%20aprendendo%20coisas%20novas&font=Fira%20Code&center=true&width=440&height=45&color=ffff&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
