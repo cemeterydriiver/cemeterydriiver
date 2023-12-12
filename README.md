@@ -25,7 +25,7 @@ class Skills extends Desenvolvedor {
   linguagens  = ['Java', 'Python', 'Java Script'];
   api = ['PostMan'];
   devOps = ['Docker'];
-  dataBases = ['Mongo', 'MySql', 'FireBase', 'PostGree'];
+  dataBases = [ 'MySql', 'FireBase', 'PostGree'];
 }
 ```
 
