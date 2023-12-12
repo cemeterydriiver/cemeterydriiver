@@ -17,17 +17,12 @@ import Desenvolvedor from 'cemeterydriiver';
 
 class SobreMim extends Desenvolvedor {
   nome     = 'Ashlyn Iero';
-  area    = 'Back-end';
-  escola  = 'Sesi/Senai';
-  curso = 'Último ano do técnico em desenvolvimento de sistemas,
-           junto ao 3 ano do ensino médio';
+  area    = 'Back-end e Front-End';
+  curso = 'Técnico em Desenvolvimento de sistemas';
 }
 
 class Skills extends Desenvolvedor {
   linguagens  = ['Java', 'Python', 'Java Script'];
-  bibliotecas  = ['Pandas', 'NumPy', 'SciPy', 'TensorFlow', 'Scikit-Learn'
-                 ,'MatplotLib', 'Keras'];
-  frameworks = ['React', 'Vue', 'Fastify', 'Express'];
   api = ['PostMan'];
   devOps = ['Docker'];
   dataBases = ['Mongo', 'MySql', 'FireBase', 'PostGree'];
