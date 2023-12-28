@@ -53,6 +53,7 @@ class Skills extends Desenvolvedor {
   <img alt="wordpress" src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=WordPress&logoColor=white" />
   <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" />
   <img alt=".net" src="https://img.shields.io/badge/-.net-512BD4?style=flat-square&logo=.NET&logoColor=white" />
+  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white" />
 </p>
   </details>
 </div>
