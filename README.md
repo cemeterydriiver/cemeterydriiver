@@ -54,6 +54,8 @@ class Skills extends Desenvolvedor {
   <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" />
   <img alt=".net" src="https://img.shields.io/badge/-.net-512BD4?style=flat-square&logo=.NET&logoColor=white" />
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" />
+  <img alt="Debian" src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white" />
 </p>
   </details>
 </div>
